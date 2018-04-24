@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="gb2312"?>
+<root type="Resource" version="1.0">
+  <!--漫游-->
+  <skin name="move" texture="data/gui/BlackBlueSkins.tex">
+    <state name="normal"      offset="0 0  32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="highlighted" offset="0 32 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="pushed"      offset="0 64 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="disabled"    offset="0 96 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+  </skin>
+  <!--放大-->
+  <skin name="zoom" texture="data/gui/BlackBlueSkins.tex">
+    <state name="normal"      offset="32 0  32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="highlighted" offset="32 32 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="pushed"      offset="32 64 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="disabled"    offset="32 96 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+  </skin>
+  <!--旋转-->
+  <skin name="rotate" texture="data/gui/BlackBlueSkins.tex">
+    <state name="normal"      offset="64 0  32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="highlighted" offset="64 32 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="pushed"      offset="64 64 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="disabled"    offset="64 96 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+  </skin>
+  <!--距离测量-->
+  <skin name="btn_at-two-o-'clock" texture="data/gui/BlackBlueSkins.tex">
+    <state name="normal"      offset="96 0  32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="highlighted" offset="96 32 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="pushed"      offset="96 64 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="disabled"    offset="96 96 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+  </skin>
+ 
+  <!--面积测量-->
+  <skin name="btn_area-measurement" texture="data/gui/BlackBlueSkins.tex">
+    <state name="normal"      offset="128 0  32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="highlighted" offset="128 32 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="pushed"      offset="128 64 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="disabled"    offset="128 96 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+  </skin>
+  <!--角度测量-->
+  <skin name="btn_the-angle-measurement" texture="data/gui/BlackBlueSkins.tex">
+    <state name="normal"      offset="160 0  32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="highlighted" offset="160 32 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="pushed"      offset="160 64 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="disabled"    offset="160 96 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+  </skin>
+  <!--拾取-->
+  <skin name="btn_pick-up" texture="data/gui/BlackBlueSkins.tex">
+    <state name="normal"      offset="768 0  32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="highlighted" offset="768 32 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="pushed"      offset="768 64 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="disabled"    offset="768 96 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+  </skin>
+
+  <skin name="hide" texture="data/gui/BlackBlueSkins.tex">
+    <state name="normal"      offset="384 0  32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="highlighted" offset="384 32 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="pushed"      offset="384 64 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="disabled"    offset="384 96 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+  </skin>
+  
+  <!--设置-->
+  <skin name="setting" texture="data/gui/BlackBlueSkins.tex">
+    <state name="normal"      offset="224 0  32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="highlighted" offset="224 32 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="pushed"      offset="224 64 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="disabled"    offset="224 96 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+  </skin>
+  <!--tree控制-->
+  <skin name="tree" texture="data/gui/BlackBlueSkins.tex">
+    <state name="normal"      offset="256 0  32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="highlighted" offset="256 32 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="pushed"      offset="256 64 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="disabled"    offset="256 96 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+  </skin>
+
+ 
+  <!--白色背景，混合使用-->
+  <skin name="white" texture="data/gui/BlackBlueSkins.tex">
+    <state name="disabled"    offset="20 760 2 2"   color="128 128 128 255"     text_color="255 255 255 255"/>
+    <state name="normal"      offset="20 760 2 2"   color="255 255 255 255"     text_color="255 255 255 255"/>
+    <state name="highlighted" offset="20 760 2 2"   color="0   0   255 255"     text_color="255 255 255 255"/>
+    <state name="pushed"      offset="20 760 2 2"   color="255 255 255 255"     text_color="255 255 255 255"/>
+  </skin>
+
+  
+  <!--tooptip0背景图标-->
+  <skin name="tooltip-bk-0" texture="data/gui/BlackBlueSkins.tex">
+    <state name="normal"      offset="0 734 64 64"   color="255 255 255 200"     text_color="255 255 255 255"/>
+  </skin>
+  <skin name="tooltip-border-0" texture="data/gui/BlackBlueSkins.tex">
+    <state name="normal"      offset="64 734 64 64"   color="255 255 255 200"     text_color="255 255 255 255"/>
+  </skin>
+
+  <!--tooptip0背景图标-->
+  <skin name="tooltip-bk-1" texture="data/gui/BlackBlueSkins.tex">
+    <state name="normal"      offset="131 734 64 64"   color="255 255 255 200"     text_color="255 255 255 255"/>
+  </skin>
+  <skin name="tooltip-border-1" texture="data/gui/BlackBlueSkins.tex">
+    <state name="normal"      offset="192 734 64 64"   color="255 255 255 200"     text_color="255 255 255 255"/>
+  </skin>
+
+  <!--checkbox-->
+  <skin name="checkbox" texture="data/gui/BlackBlueSkins.tex">
+    <state name="normal"      offset="256 32 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="press"       offset="288 32 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+  </skin>
+
+
+
+
+  <skin name="play" texture="data/gui/BlackBlueSkins.tex">
+    <state name="disabled"    offset="38 236 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="normal"      offset="38 236 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="highlighted" offset="38 236 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="pushed"      offset="38 236 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+  </skin>
+
+  <skin name="stop" texture="data/gui/BlackBlueSkins.tex">
+    <state name="disabled"    offset="70 236 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="normal"      offset="70 236 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="highlighted" offset="70 236 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="pushed"      offset="70 236 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+  </skin>
+  <skin name="speedup" texture="data/gui/BlackBlueSkins.tex">
+    <state name="disabled"    offset="102 236 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="normal"      offset="102 236 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="highlighted" offset="102 236 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="pushed"      offset="102 236 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+  </skin>
+
+  <skin name="speedback" texture="data/gui/BlackBlueSkins.tex">
+    <state name="disabled"    offset="134 236 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="normal"      offset="134 236 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="highlighted" offset="134 236 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="pushed"      offset="134 236 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+  </skin>
+  
+  <!--CELLUITimeWindow-->
+  <skin name="timeWindow" texture="data/gui/BlackBlueSkins.tex">
+    <state name="track.left.disabled"       offset="0 238 16 26" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="track.left.normal"         offset="0 238 16 26" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="track.left.highlighted"    offset="0 238 16 26" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="track.left.pushed"         offset="0 238 16 26" color="255 255 255 255"  text_color="255 255 255 255"/>
+
+    <state name="track.right.disabled"      offset="18 238 16 26" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="track.right.normal"        offset="18 238 16 26" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="track.right.highlighted"   offset="18 238 16 26" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="track.right.pushed"        offset="18 238 16 26" color="255 255 255 255"  text_color="255 255 255 255"/>
+
+    <state name="track.middle.disabled"     offset="16 238 2 26" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="track.middle.normal"       offset="16 238 2 26" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="track.middle.highlighted"  offset="16 238 2 26" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="track.middle.pushed"       offset="16 238 2 26" color="255 255 255 255"  text_color="255 255 255 255"/>
+
+    <state name="slider.left.disabled"      offset="0 238 16 26" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="slider.left.normal"        offset="0 238 16 26" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="slider.left.highlighted"   offset="0 238 16 26" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="slider.left.pushed"        offset="0 238 16 26" color="255 255 255 255"  text_color="255 255 255 255"/>
+
+    <state name="slider.right.disabled"     offset="18 238 16 26" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="slider.right.normal"       offset="18 238 16 26" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="slider.right.highlighted"  offset="18 238 16 26" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="slider.right.pushed"       offset="18 238 16 26" color="255 255 255 255"  text_color="255 255 255 255"/>
+
+    <state name="slider.middle.disabled"    offset="16 238 2 26" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="slider.middle.normal"      offset="16 238 2 26" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="slider.middle.highlighted" offset="16 238 2 26" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="slider.middle.pushed"      offset="16 238 2 26" color="255 255 255 255"  text_color="255 255 255 255"/>
+  </skin>
+
+  <skin name="close" texture="data/gui/BlackBlueSkins.tex">
+    <state name="disabled"    offset="108 196 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="normal"      offset="140 196 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="highlighted" offset="170 196 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="pushed"      offset="108 196 32 32" color="255 255 255 255"  text_color="255 255 255 255"/>
+  </skin>
+
+  <skin name="eye-open" texture="data/gui/BlackBlueSkins.tex">
+    <state name="disabled"    offset="244 224 25 23" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="normal"      offset="290 224 25 23" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="highlighted" offset="357 224 25 23" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="pushed"      offset="244 224 25 23" color="255 255 255 255"  text_color="255 255 255 255"/>
+  </skin>
+
+  <skin name="eye-close" texture="data/gui/BlackBlueSkins.tex">
+    <state name="disabled"    offset="259 222 22 16" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="normal"      offset="319 222 22 16" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="highlighted" offset="386 222 22 16" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="pushed"      offset="244 222 22 16" color="255 255 255 255"  text_color="255 255 255 255"/>
+  </skin>
+  <skin name="opt-panel" texture="data/gui/BlackBlueSkins.tex">
+    <state name="disabled"    offset="60 300 400 400" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="normal"      offset="60 300 400 400" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="highlighted" offset="60 300 400 400" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="pushed"      offset="60 300 400 400" color="255 255 255 255"  text_color="255 255 255 255"/>
+  </skin>
+
+  <skin name="move-left" texture="data/gui/BlackBlueSkins.tex">
+    <state name="disabled"    offset="0 128 126 126" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="normal"      offset="0 128 126 126" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="highlighted" offset="0 128 126 126" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="pushed"      offset="504 128 126 126" color="255 255 255 255"  text_color="255 255 255 255"/>
+  </skin>
+  <skin name="move-right" texture="data/gui/BlackBlueSkins.tex">
+    <state name="disabled"    offset="378 128 126 126" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="normal"      offset="378 128 126 126" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="highlighted" offset="378 128 126 126" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="pushed"      offset="882 128 126 126" color="255 255 255 255"  text_color="255 255 255 255"/>
+  </skin>
+  <skin name="move-front" texture="data/gui/BlackBlueSkins.tex">
+    <state name="disabled"    offset="252 128 126 126" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="normal"      offset="252 128 126 126" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="highlighted" offset="252 128 126 126" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="pushed"      offset="756 128 126 126" color="255 255 255 255"  text_color="255 255 255 255"/>
+  </skin>
+  <skin name="move-back" texture="data/gui/BlackBlueSkins.tex">
+    <state name="disabled"    offset="126 128 126 126" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="normal"      offset="126 128 126 126" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="highlighted" offset="126 128 126 126" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="pushed"      offset="630 128 126 126" color="255 255 255 255"  text_color="255 255 255 255"/>
+  </skin>
+
+  <skin name="move-up" texture="data/gui/BlackBlueSkins.tex">
+    <state name="disabled"    offset="252 128 126 126" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="normal"      offset="252 128 126 126" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="highlighted" offset="252 128 126 126" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="pushed"      offset="756 128 126 126" color="255 255 255 255"  text_color="255 255 255 255"/>
+  </skin>
+  <skin name="move-down" texture="data/gui/BlackBlueSkins.tex">
+    <state name="disabled"    offset="126 128 126 126" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="normal"      offset="126 128 126 126" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="highlighted" offset="126 128 126 126" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="pushed"      offset="630 128 126 126" color="255 255 255 255"  text_color="255 255 255 255"/>
+  </skin>
+  <skin name="move-drag" texture="data/gui/BlackBlueSkins.tex">
+    <state name="disabled"    offset="495 253 116 116" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="normal"      offset="495 253 116 116" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="highlighted" offset="495 253 116 116" color="255 255 255 255"  text_color="255 255 255 255"/>
+    <state name="pushed"      offset="495 253 116 116" color="255 255 255 255"  text_color="255 255 255 255"/>
+  </skin>
+</root>

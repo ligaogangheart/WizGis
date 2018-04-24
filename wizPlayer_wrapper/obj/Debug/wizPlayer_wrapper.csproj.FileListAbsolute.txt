@@ -1,0 +1,4 @@
+E:\现场开发\Gis二次开发demo\visual studio 2012\Projects\DXApplication1\wizPlayer_wrapper\bin\Debug\wizPlayer_wrapper.dll
+E:\现场开发\Gis二次开发demo\visual studio 2012\Projects\DXApplication1\wizPlayer_wrapper\bin\Debug\wizPlayer_wrapper.pdb
+E:\现场开发\Gis二次开发demo\visual studio 2012\Projects\DXApplication1\wizPlayer_wrapper\obj\Debug\wizPlayer_wrapper.dll
+E:\现场开发\Gis二次开发demo\visual studio 2012\Projects\DXApplication1\wizPlayer_wrapper\obj\Debug\wizPlayer_wrapper.pdb

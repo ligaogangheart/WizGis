@@ -1,0 +1,53 @@
+<root>
+<item lev= "infor" time="2018-04-23 23:36:19:344" log = "begin start thread..."/>
+<item lev= "infor" time="2018-04-23 23:36:19:416" log = "begin create window with(4) msaa"/>
+<item lev= "infor" time="2018-04-23 23:36:19:496" log = "create render window with samplers(4)"/>
+<item lev= "infor" time="2018-04-23 23:36:20:182" log = "create render window with samplers(0)"/>
+<item lev= "infor" time="2018-04-23 23:36:20:238" log = "_device.initialize()"/>
+<item lev= "infor" time="2018-04-23 23:36:20:238" log = "GL_VENDOR:Intel"/>
+<item lev= "infor" time="2018-04-23 23:36:20:238" log = "GL_VERSION:4.4.0 - Build 21.20.16.4590"/>
+<item lev= "infor" time="2018-04-23 23:36:20:238" log = "loading font(E:\现场开发\Gis二次开发demo\visual studio 2012\Projects\DXApplication1\DXApplication1\bin/data/font/simsun.ttc)"/>
+<item lev= "infor" time="2018-04-23 23:36:22:507" log = "loading config(E:\现场开发\Gis二次开发demo\visual studio 2012\Projects\DXApplication1\DXApplication1\bin/data/config/config.xml)"/>
+<item lev= "infor" time="2018-04-23 23:36:22:507" log = "createFrame()"/>
+<item lev= "event" time="2018-04-23 23:36:23:628" log = "CELL::SceneWIZPlayer::onSize:enter"/>
+<item lev= "event" time="2018-04-23 23:36:23:628" log = "CELL::SceneWIZPlayer::onSize:leave"/>
+<item lev= "infor" time="2018-04-23 23:36:23:628" log = "create finish"/>
+<item lev= "infor" time="2018-04-23 23:36:23:813" log = "loadPlugin('E:\现场开发\GIS二次开发DEMO\VISUAL STUDIO 2012\PROJECTS\DXAPPLICATION1\DXAPPLICATION1\BIN\DEBUG\PLUGIN\COMPONENT\PLUGIN.GISPLATFORM.DLL')"/>
+<item lev= "infor" time="2018-04-23 23:36:24:634" log = "loadPlugin('E:\现场开发\GIS二次开发DEMO\VISUAL STUDIO 2012\PROJECTS\DXAPPLICATION1\DXAPPLICATION1\BIN\DEBUG\PLUGIN\COMPONENT\PLUGIN.GISPLATFORM.DLL') ok !"/>
+<item lev= "infor" time="2018-04-23 23:36:24:634" log = "loadPlugin('E:\现场开发\GIS二次开发DEMO\VISUAL STUDIO 2012\PROJECTS\DXAPPLICATION1\DXAPPLICATION1\BIN\DEBUG\PLUGIN\COMPONENT\PLUGIN.GISPLATFORM.DLL') ->GetProcAddress('loadPlugin') ok !"/>
+<item lev= "infor" time="2018-04-23 23:36:24:645" log = "loadPlugin('E:\现场开发\GIS二次开发DEMO\VISUAL STUDIO 2012\PROJECTS\DXAPPLICATION1\DXAPPLICATION1\BIN\DEBUG\PLUGIN\COMPONENT\PLUGIN.MARKER.DLL')"/>
+<item lev= "infor" time="2018-04-23 23:36:25:071" log = "loadPlugin('E:\现场开发\GIS二次开发DEMO\VISUAL STUDIO 2012\PROJECTS\DXAPPLICATION1\DXAPPLICATION1\BIN\DEBUG\PLUGIN\COMPONENT\PLUGIN.MARKER.DLL') ok !"/>
+<item lev= "infor" time="2018-04-23 23:36:25:071" log = "loadPlugin('E:\现场开发\GIS二次开发DEMO\VISUAL STUDIO 2012\PROJECTS\DXAPPLICATION1\DXAPPLICATION1\BIN\DEBUG\PLUGIN\COMPONENT\PLUGIN.MARKER.DLL') ->GetProcAddress('loadPlugin') ok !"/>
+<item lev= "infor" time="2018-04-23 23:36:25:072" log = "loadPlugin('E:\现场开发\GIS二次开发DEMO\VISUAL STUDIO 2012\PROJECTS\DXAPPLICATION1\DXAPPLICATION1\BIN\DEBUG\PLUGIN\COMPONENT\PLUGIN.OBLIQUEPHOTOGRAPH.DLL')"/>
+<item lev= "infor" time="2018-04-23 23:36:25:153" log = "loadPlugin('E:\现场开发\GIS二次开发DEMO\VISUAL STUDIO 2012\PROJECTS\DXAPPLICATION1\DXAPPLICATION1\BIN\DEBUG\PLUGIN\COMPONENT\PLUGIN.OBLIQUEPHOTOGRAPH.DLL') ok !"/>
+<item lev= "infor" time="2018-04-23 23:36:25:154" log = "loadPlugin('E:\现场开发\GIS二次开发DEMO\VISUAL STUDIO 2012\PROJECTS\DXAPPLICATION1\DXAPPLICATION1\BIN\DEBUG\PLUGIN\COMPONENT\PLUGIN.OBLIQUEPHOTOGRAPH.DLL') ->GetProcAddress('loadPlugin') ok !"/>
+<item lev= "infor" time="2018-04-23 23:36:25:154" log = "loadPlugin('E:\现场开发\GIS二次开发DEMO\VISUAL STUDIO 2012\PROJECTS\DXAPPLICATION1\DXAPPLICATION1\BIN\DEBUG\PLUGIN\COMPONENT\PLUGIN.SQLITE3.DLL')"/>
+<item lev= "infor" time="2018-04-23 23:36:25:281" log = "loadPlugin('E:\现场开发\GIS二次开发DEMO\VISUAL STUDIO 2012\PROJECTS\DXAPPLICATION1\DXAPPLICATION1\BIN\DEBUG\PLUGIN\COMPONENT\PLUGIN.SQLITE3.DLL') ok !"/>
+<item lev= "infor" time="2018-04-23 23:36:25:281" log = "loadPlugin('E:\现场开发\GIS二次开发DEMO\VISUAL STUDIO 2012\PROJECTS\DXAPPLICATION1\DXAPPLICATION1\BIN\DEBUG\PLUGIN\COMPONENT\PLUGIN.SQLITE3.DLL') ->GetProcAddress('loadPlugin') ok !"/>
+<item lev= "infor" time="2018-04-23 23:36:25:281" log = "loadPlugin('E:\现场开发\GIS二次开发DEMO\VISUAL STUDIO 2012\PROJECTS\DXAPPLICATION1\DXAPPLICATION1\BIN\DEBUG\PLUGIN\COMPONENT\PLUGIN.WINDOW.TREE.DLL')"/>
+<item lev= "infor" time="2018-04-23 23:36:25:307" log = "loadPlugin('E:\现场开发\GIS二次开发DEMO\VISUAL STUDIO 2012\PROJECTS\DXAPPLICATION1\DXAPPLICATION1\BIN\DEBUG\PLUGIN\COMPONENT\PLUGIN.WINDOW.TREE.DLL') ok !"/>
+<item lev= "infor" time="2018-04-23 23:36:25:307" log = "loadPlugin('E:\现场开发\GIS二次开发DEMO\VISUAL STUDIO 2012\PROJECTS\DXAPPLICATION1\DXAPPLICATION1\BIN\DEBUG\PLUGIN\COMPONENT\PLUGIN.WINDOW.TREE.DLL') ->GetProcAddress('loadPlugin') ok !"/>
+<item lev= "event" time="2018-04-23 23:36:25:307" log = "CELL::SceneWIZPlayer::registerCompoment(model.tree):enter"/>
+<item lev= "event" time="2018-04-23 23:36:25:307" log = "CELL::SceneWIZPlayer::registerCompoment:leave"/>
+<item lev= "event" time="2018-04-23 23:36:25:307" log = "CELL::SceneWIZPlayer::registerCompoment(plugin.sqlite):enter"/>
+<item lev= "event" time="2018-04-23 23:36:25:307" log = "CELL::SceneWIZPlayer::registerCompoment:leave"/>
+<item lev= "event" time="2018-04-23 23:36:25:307" log = "CELL::SceneWIZPlayer::registerCompoment(plugin.gisPlatform):enter"/>
+<item lev= "event" time="2018-04-23 23:36:25:307" log = "CELL::SceneWIZPlayer::registerCompoment:leave"/>
+<item lev= "event" time="2018-04-23 23:36:25:307" log = "CELL::SceneWIZPlayer::registerCompoment(plugin.obliquePhotograph):enter"/>
+<item lev= "event" time="2018-04-23 23:36:25:307" log = "CELL::SceneWIZPlayer::registerCompoment:leave"/>
+<item lev= "event" time="2018-04-23 23:36:25:307" log = "CELL::SceneWIZPlayer::registerCompoment(plugin.marker):enter"/>
+<item lev= "event" time="2018-04-23 23:36:25:307" log = "CELL::SceneWIZPlayer::registerCompoment:leave"/>
+<item lev= "infor" time="2018-04-23 23:36:25:320" log = "loadPlugin('E:\现场开发\GIS二次开发DEMO\VISUAL STUDIO 2012\PROJECTS\DXAPPLICATION1\DXAPPLICATION1\BIN\DEBUG\PLUGIN\FORMAT\PLUGIN.FORMAT.OBJ.DLL')"/>
+<item lev= "infor" time="2018-04-23 23:36:25:382" log = "loadPlugin('E:\现场开发\GIS二次开发DEMO\VISUAL STUDIO 2012\PROJECTS\DXAPPLICATION1\DXAPPLICATION1\BIN\DEBUG\PLUGIN\FORMAT\PLUGIN.FORMAT.OBJ.DLL') ok !"/>
+<item lev= "infor" time="2018-04-23 23:36:25:383" log = "loadPlugin('E:\现场开发\GIS二次开发DEMO\VISUAL STUDIO 2012\PROJECTS\DXAPPLICATION1\DXAPPLICATION1\BIN\DEBUG\PLUGIN\FORMAT\PLUGIN.FORMAT.OBJ.DLL') ->GetProcAddress('loadPlugin') ok !"/>
+<item lev= "event" time="2018-04-23 23:36:25:383" log = "CELL::SceneWIZPlayer::registerPlugin:enter"/>
+<item lev= "event" time="2018-04-23 23:36:25:383" log = "CELL::SceneWIZPlayer::registerPlugin:leave"/>
+<item lev= "infor" time="2018-04-23 23:36:25:383" log = "loadPlugin('E:\现场开发\GIS二次开发DEMO\VISUAL STUDIO 2012\PROJECTS\DXAPPLICATION1\DXAPPLICATION1\BIN\DEBUG\PLUGIN\FORMAT\PLUGIN.FORMAT.PR.DLL')"/>
+<item lev= "infor" time="2018-04-23 23:36:25:473" log = "loadPlugin('E:\现场开发\GIS二次开发DEMO\VISUAL STUDIO 2012\PROJECTS\DXAPPLICATION1\DXAPPLICATION1\BIN\DEBUG\PLUGIN\FORMAT\PLUGIN.FORMAT.PR.DLL') ok !"/>
+<item lev= "infor" time="2018-04-23 23:36:25:473" log = "loadPlugin('E:\现场开发\GIS二次开发DEMO\VISUAL STUDIO 2012\PROJECTS\DXAPPLICATION1\DXAPPLICATION1\BIN\DEBUG\PLUGIN\FORMAT\PLUGIN.FORMAT.PR.DLL') ->GetProcAddress('loadPlugin') ok !"/>
+<item lev= "event" time="2018-04-23 23:36:25:474" log = "CELL::SceneWIZPlayer::registerPlugin:enter"/>
+<item lev= "event" time="2018-04-23 23:36:25:474" log = "CELL::SceneWIZPlayer::registerPlugin:leave"/>
+<item lev= "infor" time="2018-04-23 23:36:25:474" log = "loadPlugin('E:\现场开发\GIS二次开发DEMO\VISUAL STUDIO 2012\PROJECTS\DXAPPLICATION1\DXAPPLICATION1\BIN\DEBUG\PLUGIN\TOOLS\PLUGIN.TOOL.MANSET.DLL')"/>
+<item lev= "infor" time="2018-04-23 23:36:25:507" log = "loadPlugin('E:\现场开发\GIS二次开发DEMO\VISUAL STUDIO 2012\PROJECTS\DXAPPLICATION1\DXAPPLICATION1\BIN\DEBUG\PLUGIN\TOOLS\PLUGIN.TOOL.MANSET.DLL') ok !"/>
+<item lev= "infor" time="2018-04-23 23:36:25:507" log = "loadPlugin('E:\现场开发\GIS二次开发DEMO\VISUAL STUDIO 2012\PROJECTS\DXAPPLICATION1\DXAPPLICATION1\BIN\DEBUG\PLUGIN\TOOLS\PLUGIN.TOOL.MANSET.DLL') ->GetProcAddress('loadPlugin') ok !"/>
+<item lev= "event" time="2018-04-23 23:36:25:514" log = "CELL::SceneWIZPlayer::registerTool:enter"/>

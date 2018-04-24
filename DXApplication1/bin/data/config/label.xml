@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <item id="二号汽机连通管" type="温度" range="40 45.1" unit="度" value="45"   color="255 255 255 255" anim="1"/>
+  <item id="冷却器" type="湿度" range="40 60" unit="度" value="45"   color="255 255 255 255"/>
+  <item id="20LBR43AA001" type="压力" range="40 60" unit="度" value="59.9"   color="255 255 255 255" anim="1"/>
+  <item id="20LBR42AA001" type="噪音" range="40 60" unit="DB" value="2"   color="255 255 255 255"/>
+  <item id="20LAB40AA001" type="噪音" range="40 60" unit="DB" value="3"   color="255 255 255 255"/>
+  <item id="20LAD30AC001" type="噪音" range="40 60" unit="DB" value="4"   color="255 255 255 255"/>
+  <item id="20LCH20AA101" type="噪音" range="40 60" unit="DB" value="5"   color="255 255 255 255"/>
+  <item id="20MAN20AA101" type="噪音" range="40 60" unit="DB" value="6"   color="255 255 255 255"/>
+  <item id="20QJ16JC" type="噪音" range="40 60" unit="DB" value="7"   color="255 255 255 255"/>
+  <item id="20MAA10" type="噪音" range="40 60" unit="DB" value="8"   color="255 255 255 255"/>
+  <item id="10LAD10AC001" type="噪音" range="40 60" unit="DB" value="9"   color="255 255 255 255"/>
+  <item id="10XAA20" type="噪音" range="40 60" unit="DB" value="10"   color="255 255 255 255"/>
+  <item id="10XAA10" type="噪音" range="40 60" unit="DB" value="11"   color="255 255 255 255"/>
+  <item id="10LBR43AA001" type="噪音" range="40 60" unit="DB" value="12"   color="255 255 255 255"/>
+  <item id="10LBR42AA001" type="噪音" range="40 60" unit="DB" value="13"   color="255 255 255 255"/>
+  <item id="10LAB40AA001" type="噪音" range="40 60" unit="DB" value="14"   color="255 255 255 255"/>
+  <item id="10LAD30AC001" type="噪音" range="40 60" unit="DB" value="15"   color="255 255 255 255"/>
+  
+  <item id="10LCH20AA101" type="噪音" range="40 60" unit="DB" value="16"   color="255 255 255 255"/>
+  <item id="10LCH20AA001" type="噪音" range="40 60" unit="DB" value="17"   color="255 255 255 255"/>
+  <item id="10MAN20AA101" type="噪音" range="40 60" unit="DB" value="18"   color="255 255 255 255"/>
+  <item id="10MAA10" type="噪音" range="40 60" unit="DB" value="45"   color="255 255 255 255"/>
+</root>

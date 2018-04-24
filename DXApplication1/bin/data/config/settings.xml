@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wizPlayerSetting>
+<settings version="v1.0">
+    <bool key="shader.pslight" value="true"/>
+    <bool key="shortcut.visible" value="true"/>
+    <bool key="sysinfo.visible" value="true"/>
+    <bool key="viewcube.visible" value="true"/>
+    <int key="Cayongh" value="0"/>
+    <int key="ambientIndenty" value="21"/>
+    <int key="color.control" value="100"/>
+    <int key="diffuseIntensity" value="79"/>
+    <int key="itemPickAlgor" value="4"/>
+    <int key="mouse.move.speed" value="199"/>
+    <int key="mouse.rotate.speed" value="59"/>
+    <int key="option" value="1"/>
+    <float key="MinPixelCount" value="10"/>
+    <float key="ambientIndenty" value="0.33"/>
+    <float key="diffuseIntensity" value="0.67"/>
+    <float key="lightDirX" value="-0.953"/>
+    <float key="lightDirY" value="-0.839"/>
+    <float key="lightDirZ" value="-0.877"/>
+    <float key="mouse.move.speed" value="1.99"/>
+    <float key="mouse.rotate.speed" value="0.59"/>
+    <shortcut key="Open" value="O"/>
+    <shortcut key="保存" value="Ctrl+S"/>
+    <shortcut key="全屏" value="F11"/>
+    <shortcut key="初始化位置" value="H"/>
+    <shortcut key="剖切-box" value="Ctrl+Q"/>
+    <shortcut key="居中" value="Space"/>
+    <shortcut key="显示上一个" value="Ctrl+Z"/>
+    <shortcut key="材质编辑器" value="M"/>
+    <shortcut key="设置" value="Esc"/>
+    <shortcut key="退出全屏" value="F11"/>
+    <shortcut key="隐藏" value="Del"/>
+</settings>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root file="">
+  <web root="http://localhost/index.html?file=sample.pr">
+  </web>
+  <server ip="127.0.0.1" port="9000"></server>
+</root>
